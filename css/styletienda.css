@@ -98,3 +98,20 @@ nav a:hover{
     font-size: 2rem;
     text-align: center;
 }
+.comentarios{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    gap: 10rem;
+    margin-bottom: 20rem;
+    
+}   
+.comentarios-texto{
+       color: white;
+        font-size: 3rem;
+        font-family: Arial, Helvetica, sans-serif;
+ }
+    
+.comentarios-img{
+        background-color: white;
+        border-radius: 5%;
+}
