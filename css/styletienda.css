@@ -47,3 +47,18 @@ nav a{
 nav a:hover{
     color: black;
 }
+.nustros-productos{
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    font-size: 4rem;
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: 800;
+}
+
+.productos{
+   display: grid;
+   grid-template-columns: repeat(3,1fr);
+
+   
+}
