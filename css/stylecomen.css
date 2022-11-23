@@ -29,5 +29,18 @@
 
 .opiniones .caja-contenedor .caja .user h3{
     color: var(--verde);
-    
+    font-size: 2rem;
+
+}
+
+.opiniones .caja-contenedor .caja .user .stars i{
+    color: var(--verde);
+    font-size: 1.5rem;
+    padding: 1rem 0;
+}
+
+.opiniones .caja-contenedor .caja .comentarios{
+    color: #666;
+    font-size: 1.5rem;
+    padding: 1rem;
 }
