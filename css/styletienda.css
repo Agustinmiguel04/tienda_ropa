@@ -59,6 +59,17 @@ nav a:hover{
 .productos{
    display: grid;
    grid-template-columns: repeat(3,1fr);
+  
+}
+.producto{
+    background-color: rgba(255, 55, 55, 0.768);;
+    margin: 2rem;
+    padding: 2rem;
+}
 
-   
+.producto-blanco{
+    background-color: white;
+    height: 40rem;
+    object-fit: contain;
+    padding: 1rem;
 }
