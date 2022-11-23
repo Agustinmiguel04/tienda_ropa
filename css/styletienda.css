@@ -26,4 +26,14 @@ img{
 .logo-img{
     max-width: 40rem;
     margin: 3rem 0;
+}nav{
+    margin: 3rem 0 8rem 0;
+    background-color: rgba(106, 121, 247, 1);
+    padding: 2rem;
+    display: flex;
+    justify-content: center;
+    gap: 10rem;
+}
+a{
+    text-decoration: none;
 }
