@@ -8,3 +8,13 @@ html{
 .img-fondo{
     background-image: url(../imagenes/fondo.jpg);
 }
+img{
+    width: 100%;
+}
+.velo-negro{
+    background-color:rgba(0, 0, 0, 0.192);
+}
+.contenedor{
+    max-width: 120rem;
+    margin: 0 auto;
+}
