@@ -2,3 +2,9 @@ html{
     box-sizing: border-box;
     font-size: 60.5%;
 }
+*,*::before,*::after{
+    box-sizing: inherit;
+}
+.img-fondo{
+    background-image: url(../imagenes/fondo.jpg);
+}
