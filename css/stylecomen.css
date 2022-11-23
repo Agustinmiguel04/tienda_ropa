@@ -18,3 +18,8 @@
     color: var(--limon);
     opacity: .3;
 }
+
+.opiniones .caja-contenedor .caja .user img{
+    border-radius: 50%;
+    object-fit: cover;
+}
