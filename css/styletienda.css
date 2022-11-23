@@ -37,3 +37,13 @@ img{
 a{
     text-decoration: none;
 }
+nav a{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 800;
+    font-size: 3rem;
+    color: white;
+    text-transform: uppercase;
+}
+nav a:hover{
+    color: black;
+}
