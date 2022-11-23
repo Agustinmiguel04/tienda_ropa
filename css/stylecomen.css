@@ -9,3 +9,9 @@
     flex: 1 1 30rem;
     border-radius: .5rem;
 }
+
+.opiniones .caja-contenedor .caja .fa-atom{
+    position: absolute;
+    top: 1rem;
+    right: 2rem;
+}
