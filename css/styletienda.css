@@ -249,3 +249,8 @@ nav a:hover{
     display: flex;
     justify-content: space-between;
 }
+
+#contacto .contenedor-form input,
+#contacto .contenedor-form textarea{
+    padding: 20px;
+    border-radius: 20px;
