@@ -261,3 +261,6 @@ nav a:hover{
     width: 48%;
 
 }
+#contacto .contenedor-form .input-full{
+    width: 100%;
+}
