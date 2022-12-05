@@ -155,3 +155,7 @@ nav a:hover{
     padding: 100px 0;
     margin: auto;
 }
+#ofertas_semanales .titulo-seccion{
+    text-align: center;
+    font-size: 22px;
+    text-transform: uppercase;
