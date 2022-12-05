@@ -165,3 +165,5 @@ nav a:hover{
     text-decoration-thickness: 5px;
 
 }
+#ofertas_semanales .fila {
+    display: flex;
