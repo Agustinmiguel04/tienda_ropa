@@ -159,3 +159,9 @@ nav a:hover{
     text-align: center;
     font-size: 22px;
     text-transform: uppercase;
+    color: #ffffff;
+    text-decoration: underline;
+    text-decoration-color: #aa193f ;
+    text-decoration-thickness: 5px;
+
+}
