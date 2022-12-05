@@ -235,3 +235,6 @@ nav a:hover{
 #contacto{
     padding: 100px 15px;
 }
+#contacto .titulo-seccion{
+    margin-bottom: 20px;
+}
