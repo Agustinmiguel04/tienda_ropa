@@ -187,3 +187,7 @@ nav a:hover{
 #ofertas_semanales .fila .oferta:hover img{
     filter: grayscale(0);
 }
+#ofertas_semanales .fila .oferta .info {
+    position: absolute;
+    left: 0;
+    background-color: #aaaaaa;
