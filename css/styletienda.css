@@ -150,3 +150,8 @@ nav a:hover{
 }
 /*SECCION OFERTA */
 #ofertas_semanales{
+        
+    max-width: 1100px;
+    padding: 100px 0;
+    margin: auto;
+}
