@@ -212,3 +212,7 @@ nav a:hover{
         -webkit-transform: rotate3d(0,0,1,0deg);
         transform: rotate3d(0,0,1 0deg);
     }
+    25%{
+        -webkit-transform: rotate3d(0,0,1,0deg);
+        transform: rotate3d(0,0,1 90deg);
+    }
