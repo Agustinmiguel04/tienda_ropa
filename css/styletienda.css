@@ -207,3 +207,8 @@ nav a:hover{
     animation: rotate 5s normal linear infinite;
     
  }
+ @keyframes rotate{
+    0%{
+        -webkit-transform: rotate3d(0,0,1,0deg);
+        transform: rotate3d(0,0,1 0deg);
+    }
