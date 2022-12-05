@@ -238,3 +238,7 @@ nav a:hover{
 #contacto .titulo-seccion{
     margin-bottom: 20px;
 }
+#contacto .contenedor-form{
+    max-width: 1100px;
+    margin: auto;
+}
