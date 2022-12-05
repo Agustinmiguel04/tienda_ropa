@@ -245,3 +245,7 @@ nav a:hover{
 #contacto .contenedor-form .fila {
     margin-bottom: 15px;
 }
+#contacto .contenedor-form .mitad{
+    display: flex;
+    justify-content: space-between;
+}
